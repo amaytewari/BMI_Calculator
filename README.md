@@ -1,4 +1,4 @@
 # bmi_calculator
 
 Simple BMI calculator.
-Part of Angela Yu's Flutter coursee on Udemy.
+Part of Angela Yu's Flutter course on Udemy.
